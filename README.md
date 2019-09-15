@@ -10,4 +10,7 @@ Sample website with plenty of files for demos
 Do it
 
 ### Lemon
-Party
+Party'
+
+### Die
+Every day
